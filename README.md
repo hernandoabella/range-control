@@ -1,1 +1,1 @@
-# control-de-rango
+# range-control
